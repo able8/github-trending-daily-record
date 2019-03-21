@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^16.19.0",
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.3.0"
+  }
+}
